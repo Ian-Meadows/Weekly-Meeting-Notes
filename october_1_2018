@@ -21,3 +21,6 @@ Friends
 Database to store user data
 Use APIs for a single sport then expand to more sports
 Statistics
+
+apis:
+http://www.espn.com/static/apis/devcenter/docs/scores.html#using-the-api 
