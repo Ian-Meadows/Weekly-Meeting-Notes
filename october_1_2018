@@ -1,3 +1,23 @@
 Everyone showed up.
 Did milestone 1.
 Unable to add Professor to repos
+Benefits:
+1. Find upcoming games
+2. Accessible way to view spread, moneyline, etc.
+
+features :
+Login
+Database to store username and passwords
+Groups
+Group name
+Categories
+Option for password
+Total prize pool
+Users bet “money” and gets added to prize pool
+User Accounts
+Fake money
+Username/password
+Friends
+Database to store user data
+Use APIs for a single sport then expand to more sports
+Statistics
